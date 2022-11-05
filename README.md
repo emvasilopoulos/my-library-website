@@ -1,11 +1,44 @@
-![landy](https://user-images.githubusercontent.com/48876996/121569479-e179db80-ca31-11eb-8a48-9c3de9b142f3.gif)
+# Personal Website
+The reason for creating this website is two-fold.
+1) It will be display public information regarding sciences I am interested in, such as articles about innovations and useful how-to-s needed in past developed systems
+2) This will be the root of projects I have developed (actually none of my projects are complete and I decided to start another (this website)) or will develop.
 
-![Landy React Template License](https://img.shields.io/github/license/Adrinlol/landy-react-template)
-![Landy React Template Release Date](https://img.shields.io/github/release-date/Adrinlol/landy-react-template)
-![Landy React TemplateStars](https://img.shields.io/github/stars/Adrinlol/landy-react-template)
-![Landy React Template Language](https://img.shields.io/github/languages/top/Adrinlol/landy-react-template)
-![Landy React Template TypeScript](https://badgen.net/npm/types/tslib)
+# Contentsss
+- People
+  - How to have the best life with the woman of my life Eleni. I'm referring to the co-existence of two human beings and how its quality can determine the best life. This does not need much research. It's not a zero-sum game. It's a win-win-the-stupid-problem-together game.
+  - How the human behaves in any circumstance
+  - How to make my people happy. Actually, I want to make all people, who deserve it, happy.
+  - How to save the same people from habits that kill them. How to make them change their habits without breaking their balls.
+  - How to form teams with people that love each other. How to make these teams love each other.
+- Deep Learning
+  - Object Detection
+  - GANs
+  - Actually it's not that I'm interested particularly in the above apps. Innovations with Neural Networks are really exciting. I wish there was time to learn about all
+  - Transformers (Today the 3rd of November I got an email about a book written by machinelearningmastery and I will study this one whenever it is possible)
+  - Audio Apps with CNNs. I believe Convolutional Networks are amazing in their "simplicity". They work very well with input that has one special attribute. Coherence. That's why it works (I pressume) well with images AND audio.
+- Reinforcement Learning
+  - Guess what? I'm building a trading bot with DQN. Of course it needs a lot of work, but the connection with Binance is complete and I can retrieve live data. All I need is to build the environment with OpenAI's gym.
+  - I have a great idea, which can be proven if it works or not when I'll be 90 years, because that's how long it will take to finish training with my current resources.
+- Building tools with Python
+  - This language..! It's so magical. It can do anything in no time.
+- Mobile Apps Dev
+  - Native Android Apps (I can do that now)
+  - iOS Apps (I will probably need to learn Swift, if I want to use NNs in my apps. One thing is for sure. I need a Mac Computer)
+- Health
+  - Habits that make our body last longer and be more efficient. Fasting.."is All You Need".
+  - Healthy & Tasty Food. Yes, both of these words can be combined in one sentence. I forgot cheap.
+  - Breathing - Meditation
+  - Work Out
+- Optimization - "Max Value--Min Time"
+  - Designing efficient systems
+    - Software
+    - Finances
+    - Everyday life - Go to work with bicycle. It's the same time as using the bus (now it takes less time) and at the same time I do some work out. 
+- Astrophysics
+  - That's a sophisticated way of saying, I love watching documentaries for space. I'm not interested in doing anything in space, other than travelling at least once in my life out of earth.
 
+## Original Markdown Below This Point
+---------------------------------------
 ## Free React landing page template
 
 [Landy][Landy] is an open-source React landing page template written in TypeScript, designed for developers and startups, who want to create a quick and professional landing page for their business or project.
