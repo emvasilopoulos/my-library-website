@@ -4,7 +4,7 @@ import { MenuOutlined } from "@ant-design/icons";
 
 export const HeaderSection = styled("header")`
   padding: 1rem 0.5rem;
-
+  
   .ant-row-space-between {
     align-items: center;
     text-align: center;
@@ -68,7 +68,7 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: #18216d;
+  color: #041731;
   transition: color 0.2s ease-in;
   margin: 0.5rem 2rem;
 
@@ -97,8 +97,8 @@ export const Span = styled("span")`
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
+    color: rgb(240,186,9);
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: rgb(240,186,9) underline;
   }
 `;

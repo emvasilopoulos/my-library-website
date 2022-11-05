@@ -1,0 +1,4 @@
+dark-blue: (4,23,49) or #041731
+yellow: (255,195,0) or #FFC300
+dark-yellow: (240,186,9) or #F0BA09
+black: (35,31,32) or #231f20

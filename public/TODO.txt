@@ -1,0 +1,6 @@
+1) update manifest.json --> 1) Create custom icons for tab 2) add custom icons
+2) robots.txt updata allow and disallow
+3) add Greek translation. see src/translation.ts and you will understand
+4) create logo for top left position of website
+5) Update Footer
+6) Update Header

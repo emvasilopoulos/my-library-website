@@ -1,0 +1,13 @@
+{
+  "title": "Software Development and Machine Learning is all I need!",
+  "text": "A public library, or more like a journal of my journey in making the world a better place. Deep Learning, Mobile Applications Development, Python Tools, Reinforcement Learning, Books, Love, Stories and more is included in this website. Thank you Landy for this wonderful React template.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
