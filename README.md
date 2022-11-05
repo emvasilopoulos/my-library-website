@@ -3,7 +3,7 @@ The reason for creating this website is two-fold.
 1) It will be display public information regarding sciences I am interested in, such as articles about innovations and useful how-to-s needed in past developed systems
 2) This will be the root of projects I have developed (actually none of my projects are complete and I decided to start another (this website)) or will develop.
 
-# Contentsss
+# Content
 - People
   - How to have the best life with the woman of my life Eleni. I'm referring to the co-existence of two human beings and how its quality can determine the best life. This does not need much research. It's not a zero-sum game. It's a win-win-the-stupid-problem-together game.
   - How the human behaves in any circumstance
